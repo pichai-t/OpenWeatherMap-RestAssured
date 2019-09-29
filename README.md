@@ -20,7 +20,7 @@ RestAssured (for API Service) and Cucumber (for BDD styled), along with Maven as
 * Test will run according to feature files - which are stored under 
 ./src/test/java/featureFiles folder. 
 
-* Outputs (Json, XML and html) will be produced under ./target/cucumber-reports folder.
+* Outputs (Json, XML and html files) will be produced under ./target/cucumber-reports folder.
 
 <a name="howtosetup"></a>
 ## 2. How to setup
@@ -28,7 +28,7 @@ ___
 
 Pull (clone) source code from Git as below command: 
 
-```batch
+```git
 git clone git@github.com:pichai-t/OpenWeatherMap-RestAssured.git
 ```
 
